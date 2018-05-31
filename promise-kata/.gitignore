@@ -1,0 +1,8 @@
+package-lock.json
+node_modules/*
+.idea/workspace.xml
+.idea/vcs.xml
+.idea/runConfigurations/bin_www.xml
+.idea/promise-kata.iml
+.idea/modules.xml
+.idea/jsLibraryMappings.xml
